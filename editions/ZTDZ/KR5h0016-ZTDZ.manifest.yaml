@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5h0016/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5h0016/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上老君說城隍感應消災集福妙經(護國保寧佑聖王威靈公感應城隍經)
+  date: '2015-08-29 03:02:44.463367'
+  source:
+    repository: kanripo
+    path: KR5h0016
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5h0016_000-ZTDZ.yaml, hash: 'sha256:75e996a6abc2b1021d39ed0a6f6840b162e0dd76db43937d1160ea35d3764567'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5h0016_000-ZTDZ.markers.yaml, hash: 'sha256:2acf715d596f5a0d173acdbbeb576cc767ea56bd4ee5af41bc7ce133d311d67e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5h0016_SJB_000-340747c
+    span:
+    - body
+    - 0
+    - 1269
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:f222179f18d32d08fea64a1bbfd47f203f8a28d47fba9f2d2cce621a13f3cb67
